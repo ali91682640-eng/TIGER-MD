@@ -27,7 +27,7 @@
       "value": "public"
     },
     "OWNER_NUMBER": {
-      "description": "Owner WhatsApp number without + (Default: 923427582273)",
+      "description": "Owner WhatsApp number without + (Default: 923259855436)",
       "required": false,
       "value": "923259855436"
     },
