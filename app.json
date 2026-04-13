@@ -164,7 +164,7 @@
     "DESCRIPTION": {
       "description": "Bot description",
       "required": false,
-      "value": "*© POWERED BY BAGGA MD*"
+      "value": "*© POWERED BY BAGGA SHAR*"
     }
   },
   "buildpacks": [
