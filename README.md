@@ -15,6 +15,14 @@
 
 ---
 
+<div align="center">
+  <img src="https://i.ibb.co/0VCDzzFQ/IMG-20260405-WA0251.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #f59e0b;"/>
+  <br/>
+  <b style="color: #f59e0b;">TIGER-MD BOT | BAGGA SHAR-MD</b>
+</div>
+
+---
+
 ## 🚀 GET SESSION ID
 
 <p align="center">
